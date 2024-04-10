@@ -1,0 +1,46 @@
+{
+  "አዳኝ": [
+          {
+              "root": "አዳነ",
+              "pronunciation": "adagn",
+              "definitions" : [
+                {
+                  "partOfSpeech": "ገላጭ",
+                  "meaning": "ከአደጋ የሚጠብቅ፣ ከክፉ ነገር የሚያድን ሰው ወይም ነገር",
+                  "example": "አዳኝ እና ጠባቂ መላእክት",
+                  "translation": "savior",
+                  "synonyms": ["ጠባቂ"],
+                  "antonyms": ["ገዳይ", "አጥፊ"]
+                }
+              ]
+          },
+          {
+            "root": "አደነ",
+            "pronunciation": "addagn",
+            "definitions" : [
+              {
+                "partOfSpeech": "ስም",
+                "meaning": "አሳዳጅ፣ ገዳይ፣ በነፍስ ፈላጊ",
+                "example": "የእንስሳት አዳኝ",
+                "translation": "hunter",
+                "synonyms": ["ገዳይ", "አሳዳጅ"],
+                "antonyms": []
+              }
+            ]
+        }
+      ],
+  "ፍቅር": {
+      "root": "ፍቅር",
+      "pronunciation": "fik’ir",
+      "definitions": [
+          {
+            "partOfSpeech": "noun",
+            "meaning": "መውደድ",
+            "example": "ፍቅር ይበልጣል!",
+            "translation": "love",
+            "synonyms": ["መውደድ"],
+            "antonyms": ["ጥላቻ"]
+        }
+    ]
+  }
+}
