@@ -4,7 +4,7 @@
  - ይህ ውሂብ የዐማርኛ ቃለመዝ መተግበሪያዎችን ከመሥራት ጀምሮ ለተለያዩ ሥራዎች የሚያገለግል የቋንቋ ግብዓት ነው። 
  - ቃላቱ የተቀመጡበት መዋቅር ለአነባበብ በሚያመች መልኩ የተዘጋጀ ነው። 
 
-## መዋቅር 
+## የመዝገበ ቃል መዋቅር 
 በዚህ ውሂብ ውስጥ የሚገኙ ቃላት የሚከተሉት መረጃዎች ይኖሯቸዋል፦ 
  - ሥርዎ ቃል 
  - አነባበብ 
@@ -19,5 +19,11 @@
 
 - የቃላት ብዛት = 
 - የቃላት አደራደር = አቡጊዳ 
+
+## ምንጮች እና መሣሪያዎች 
+<!-- add links to these sources -->
+ - ዐዲስ የዐማርኛ መዝገበ ቃላት፦ ዋና የቃላት ዝርዝር እና ትርጉም ምንጭ 
+ - UNICODE IPA (International Phonetic Association)፦ የቃላት አነባበብ ምንጭ። [IPA Phonetics](https://www.unicode.org/cldr/cldr-aux/charts/28/delta/transform-am-am_FONIPA.html)
+ - Hornmorpho፦ የቃላት ትንተና መሣሪያ፣ የቃላት የንግግር ክፍል፣ ትርጉም የመሳሰሉት መረጃዎች መገኛ። [Hornmorpho](https://github.com/hltdi/HornMorpho) 
 
 በዚህ ሥራ ላይ አስተያየ መስጠት ወይም አስተዋጽኦ ማድረግ የምትፈልጉ በሙሉ በተቀመጠው ኢሜይል ልታገኙን ትችላላችሁ። 
