@@ -15,6 +15,13 @@
  - ተመሳሳይ ቃላት
  - ተቃራኒ ቃላት
 
+## የመረጃ ምንጮች 
+
+- ዐዲስ የዐማርኛ መዝገበ ቃላት፦ አጠቃላይ የቃላት ዝርዝር ከትርጉም ጋር
+- UNICODE IPA አነባበብ፦ የዐማርኛ ቃላት በላቲን ፊደላት አነባበብ [እዚህ ያግኙት](https://www.unicode.org/cldr/cldr-aux/charts/28/delta/transform-am-am_FONIPA.html)
+- ይፈለጉትን ቃል IPA አነባበብ ለማግኘት [እዚህ ይጫኑ](https://sami-veni.github.io/)
+- [Hornmorpho](https://github.com/hltdi/HornMorpho) ፦ የቃላትን ሥርዎ ቃል፣ ጾታ እና ሌሎችንም መረጃዎች የሚሰጥ
+
 ## አጠቃላይ መረጃ 
 
 - የቃላት ብዛት = 
