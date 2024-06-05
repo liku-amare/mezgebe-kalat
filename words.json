@@ -2,12 +2,12 @@
   "አዳኝ": [
           {
               "root": "አዳነ",
-              "pronunciation": "adagn",
+              "pronunciation": "ʔədaɲɨ",
               "definitions" : [
                 {
-                  "partOfSpeech": "ገላጭ",
-                  "meaning": "ከአደጋ የሚጠብቅ፣ ከክፉ ነገር የሚያድን ሰው ወይም ነገር",
-                  "example": "አዳኝ እና ጠባቂ መላእክት",
+                  "partOfSpeech": "noun",
+                  "meaning": "ከአደጋ የሚጠብቅ፤ ከክፉ ነገር የሚያድን",
+                  "example": "አዳኝ እና ጠባቂ መላእክትን ይላክልን።",
                   "translation": "savior",
                   "synonyms": ["ጠባቂ"],
                   "antonyms": ["ገዳይ", "አጥፊ"]
@@ -16,12 +16,12 @@
           },
           {
             "root": "አደነ",
-            "pronunciation": "addagn",
+            "pronunciation": "ʔəddaɲɨ",
             "definitions" : [
               {
-                "partOfSpeech": "ስም",
-                "meaning": "አሳዳጅ፣ ገዳይ፣ በነፍስ ፈላጊ",
-                "example": "የእንስሳት አዳኝ",
+                "partOfSpeech": "noun",
+                "meaning": "አሳዳጅ፤ ገዳይ፤ በነፍስ ፈላጊ",
+                "example": "የእንስሳት አዳኞች ወደ ደን እንዳይገቡ ተከለከሉ።",
                 "translation": "hunter",
                 "synonyms": ["ገዳይ", "አሳዳጅ"],
                 "antonyms": []
