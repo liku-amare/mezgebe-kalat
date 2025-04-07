@@ -1,6 +1,7 @@
 import json
 import tkinter as tk
 from tkinter import ttk, messagebox
+from ipa_lookup import get_pronunciation
 
 class DictionaryApp:
     def __init__(self, root):
@@ -20,10 +21,12 @@ class DictionaryApp:
         self.words_frame = ttk.Frame(self.root)
         self.words_frame.pack(pady=10)
         
-        ttk.Label(self.words_frame, text="ቃል:").pack()
+        ttk.Label(self.words_frame, text="ቃል: (ቃሉን ጽፈው 'Enter' ይንኩ)").pack()
         self.word_entry = ttk.Entry(self.words_frame)
         self.word_entry.pack(fill='x')
         
+        self.word_entry.bind("<Return>", self.fill_pronunciation)
+
         self.entries_frame = ttk.Frame(self.words_frame)
         self.entries_frame.pack()
         
@@ -121,7 +124,14 @@ class DictionaryApp:
             # If the definition is hidden, show it
             definition_frame.pack(fill='x', pady=5)
             button.config(text="ፍቺ ይጠቅልሉ")
-    
+
+    def fill_pronunciation(self, event=None):
+        word = self.word_entry.get()
+        pronunciation = get_pronunciation(word)
+        # If the pronunciation field is empty, fill it with the word
+        if word and not self.entries[0]["pronunciation_entry"].get():
+            self.entries[0]["pronunciation_entry"].insert(0, pronunciation)
+
     def save_data(self):
         word = self.word_entry.get()
         
